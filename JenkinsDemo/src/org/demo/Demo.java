@@ -8,7 +8,7 @@ public class Demo {
     	int year;
     	
     	year =2002;
-    
+    System.out.println("kalaislevan");
         boolean isLeap = false;
 
         if(year % 4 == 0)
